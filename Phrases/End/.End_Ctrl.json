@@ -1,32 +1,32 @@
 {
-    "type": "phrase",
-    "description": "End_Ctrl",
+    "usageCount": 0, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "End_Ctrl", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "m", 
+        "modifiers": [
+            "<ctrl>", 
+            "<hyper>"
+        ]
+    }, 
     "modes": [
         3
-    ],
-    "usageCount": 0,
-    "prompt": false,
-    "omitTrigger": false,
-    "matchCase": false,
-    "showInTrayMenu": false,
-    "abbreviation": {
-        "abbreviations": [],
-        "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
-        "triggerInside": false,
-        "wordChars": "[\\w]"
-    },
-    "hotkey": {
-        "modifiers": [
-            "<ctrl>",
-            "<hyper>"
-        ],
-        "hotKey": "/"
-    },
+    ], 
+    "showInTrayMenu": false, 
+    "matchCase": false, 
     "filter": {
-        "regex": null,
+        "regex": null, 
         "isRecursive": false
-    },
+    }, 
+    "type": "phrase", 
     "sendMode": "kb"
 }

@@ -1,31 +1,31 @@
 {
-    "type": "phrase",
-    "description": "Home",
-    "modes": [
-        3
-    ],
-    "usageCount": 0,
-    "prompt": false,
-    "omitTrigger": false,
-    "matchCase": false,
-    "showInTrayMenu": false,
+    "usageCount": 0, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "Home", 
     "abbreviation": {
-        "abbreviations": [],
-        "backspace": true,
-        "ignoreCase": false,
-        "immediate": false,
-        "triggerInside": false,
-        "wordChars": "[\\w]"
-    },
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
     "hotkey": {
+        "hotKey": "n", 
         "modifiers": [
             "<hyper>"
-        ],
-        "hotKey": "m"
-    },
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "matchCase": false, 
     "filter": {
-        "regex": null,
+        "regex": null, 
         "isRecursive": false
-    },
+    }, 
+    "type": "phrase", 
     "sendMode": "kb"
 }

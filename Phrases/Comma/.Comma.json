@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 13, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Home_Ctrl_Shift", 
+    "description": "Comma", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,11 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "n", 
+        "hotKey": "\\", 
         "modifiers": [
-            "<ctrl>", 
-            "<hyper>", 
-            "<shift>"
+            "<hyper>"
         ]
     }, 
     "modes": [
